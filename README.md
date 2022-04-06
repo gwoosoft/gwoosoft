@@ -11,7 +11,7 @@
 
 
 ### Languages and Skill
-[<img height="32" width="32" src="./icons/cplusplus.svg"/>](https://isocpp.org/)
+[<img height="32" width="32" src="./icons/cplusplus-svgrepo-com.svg"/>](https://isocpp.org/)
 [<img height="32" width="32" src="./icons/python.svg"/>](https://www.python.org/)
 [<img height="32" width="32" src="./icons/javascript.svg"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img height="32" width="32" src="./icons/opencv.svg"/>](https://opencv.org/)
@@ -23,8 +23,6 @@
 ### 📫 How to reach me
 [<img height="32" width="32" src="./icons/gmail.svg"/>](mailto:gl1858@nyu.edu)
 [<img height="32" width="32" src="./icons/linkedin.svg"/>](https://www.linkedin.com/in/geonwoo-lee-b1458247/)
-
-
 
 
 
