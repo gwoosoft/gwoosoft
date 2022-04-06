@@ -2,12 +2,13 @@
 
 
 ### About me
-- 🧑🏻‍💼 I studied finance/accounting and worked in finance/accounting industry for almost 5 years.  
+- 🧑🏻‍💼 I studied finance/accounting and worked in finance/accounting industry.  
 - 🧑🏻‍💻 I'm currently studying in New York University for Master in Computer Science.  
+- 🎓 I'm graduating May 2022 and looking for software engineering position.
 - 🔭 I’m currently working on Text to speech for deep learning project, image recognition for computer vision, and backend. 
 - 🌱 I’m currently learning deep learning and computer vision. 
 - 👯 I’m looking to collaborate on any backend open source project 
-- 💬 Ask me about ...
+ 
 
 
 ### Languages and framework
