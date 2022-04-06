@@ -10,8 +10,8 @@
 - 💬 Ask me about ...
 
 
-### Languages and Skill
-[<img height="32" width="32" src="./icons/cplusplus-svgrepo-com.svg"/>](https://isocpp.org/)
+### Languages and framework
+[<img height="32" width="32" src="./icons/cplusplus.svg"/>](https://isocpp.org/)
 [<img height="32" width="32" src="./icons/python.svg"/>](https://www.python.org/)
 [<img height="32" width="32" src="./icons/javascript.svg"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img height="32" width="32" src="./icons/opencv.svg"/>](https://opencv.org/)
