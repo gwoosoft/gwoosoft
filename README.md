@@ -2,8 +2,8 @@
 
 
 ### About me
-- 🧑🏻‍💼 intially graduated and worked in finance/accounting. 
-- 🧑🏻‍💻 I'm currently studying in New York University for Master in Computer Science 
+- 🧑🏻‍💼 I studied finance/accounting and worked in finance/accounting industry for almost 5 years.  
+- 🧑🏻‍💻 I'm currently studying in New York University for Master in Computer Science.  
 - 🔭 I’m currently working on Text to speech for deep learning project, image recognition for computer vision, and backend. 
 - 🌱 I’m currently learning deep learning and computer vision. 
 - 👯 I’m looking to collaborate on any backend open source project 
