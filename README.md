@@ -4,9 +4,9 @@
 ### About me
 - 🧑🏻‍💼 I studied finance/accounting and worked in finance/accounting industry.  
 - 🧑🏻‍💻 I'm currently studying in New York University for Master in Computer Science.  
-- 🎓 I'm graduating May 2022 and looking for software engineering position.
+- 🎓 I'm graduating May 2022.
 - 🔭 I’m currently working on Text to speech for deep learning project, chessboard image recognition using computer vision technology, and Full Stack Mern Project. 
-- 🌱 I’m currently takinng deep learning and computer vision classes in NYU. 
+- 🌱 I’m currently taking deep learning and computer vision classes in NYU. 
 - 👯 I’m looking to collaborate on any backend open source project 
  
 
