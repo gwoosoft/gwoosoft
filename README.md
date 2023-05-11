@@ -11,7 +11,7 @@
 
 ### Languages and framework
 [<img height="32" width="32" src="./icons/cplusplus.svg"/>](https://isocpp.org/)
-[<img height="32" width="32" src="./icons/Java_Logo.svg"/>]
+[<img height="32" width="32" src="./icons/Java_Logo.svg"/>](https://fr.wikipedia.org/wiki/Fichier:Java_Logo.svg)
 [<img height="32" width="32" src="./icons/python.svg"/>](https://www.python.org/)
 [<img height="32" width="32" src="./icons/r-svgrepo-com.svg"/>](https://reactjs.org/)
 [<img height="32" width="32" src="./icons/javascript.svg"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
