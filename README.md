@@ -2,9 +2,7 @@
 
 
 ### About me
-- 🧑🏻‍💼 Previously I studied finance/accounting and worked in finance/accounting industry.  
-- 🧑🏻‍💻 I graduated from New York University for Master in Computer Science.  
-- 🔭 I’m currently working on Full Stack Project. 
+- 🔭 I’m currently working on multiple Apps in Apple Store. 
 - 👯 I’m looking to collaborate on any backend open source project 
  
 
